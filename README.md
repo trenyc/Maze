@@ -8,7 +8,13 @@ You can see the screencast video here: https://youtu.be/D1ILVTttfRo
 
 One thing to note is I am using spatial audio the bear growls louder as you get closer.
 
-Probably the challenge I had was getting the teleport smooth, as it would flicker when doing other raycasting.
+Probably the challenge I had was getting the teleport smooth, as it would flicker when doing other raycasting. 
+To get around this I needed to change the raycast mask to only the teleport.
+As for developing the world I used prefab floor tiles froma musuem pack I had. These were smaller tiles than Snaps, 
+so I had to select many as group a copy the tiles to make my path.  The Progrids made everything smooth and easy.
+I kept the interactables the same as the teaching video. Adding the spatial audio was pretty smooth, I did have to add
+a ceiling above the scary bear to make his growl deafening when you really close to the bear. I also had to add meshes
+to the book cases so that corner has all the sound bouncing off the surfaces to to make it reallly loud.
 
 I used some paid packages for the decor and the spatial audio feature
 
