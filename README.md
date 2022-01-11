@@ -3,6 +3,9 @@
 To download the unity package for my Maze please visit this dropbox link:
 https://www.dropbox.com/s/lpm7k559z12e7mg/mazepacakge.unitypackage?dl=0
 
+To be able to hear the sound effects, on a windows machine you can simply play it in oculus with this build
+https://www.dropbox.com/s/f8eh0oqhic18ywd/TrenycMaze.exe?dl=0
+
 The maze has you get a key from a scary growling bear and then use the key to go through  a door to eventually find the win zone. 
 You can see the screencast video here: https://youtu.be/D1ILVTttfRo
 
